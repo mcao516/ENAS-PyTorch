@@ -1,0 +1,6 @@
+# ignore the data folder
+data/
+
+# Don't track temporary files created by vs-code and jupyter
+.vscode/
+.ipynb_checkpoints/
